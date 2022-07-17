@@ -1,7 +1,7 @@
 html {
     font-size: 18px;
   }
-.container {
+.container{
   border: 2px solid blue;
   padding: 10px;
   margin: 10px auto;
@@ -15,4 +15,19 @@ html {
     text-align: center;
     margin: 20px auto;
     min-height: 100px;
+    color: white;
+}
+
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+  color: black;
+}
+.red{
+  background-color: red
+}
+.green{
+  background-color: green;
 }

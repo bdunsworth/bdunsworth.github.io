@@ -1,10 +1,11 @@
 html {
     font-size: 18px;
   }
-.container{
-    border: 10px;
-    color: red;
-  }
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto;
+}
 .color-container{
 background-color: bisque;
 }
